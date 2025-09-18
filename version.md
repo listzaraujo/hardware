@@ -1,8 +1,8 @@
 # Hardware: Version Control
 
 ## Dome: 
-FPGA: PYNQ Z2 XC7Z020 \\
-PCB Board: FNN Green PCB v.1.1 \\
+FPGA: PYNQ Z2 XC7Z020  
+PCB Board: FNN Green PCB v.1.1  
 GPS: BINGFU GPS Antenna
 Dome: Radome KVM
 
